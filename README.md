@@ -1,2 +1,2 @@
 # Chess-Py
-chess written in python
+chess wrote in python
